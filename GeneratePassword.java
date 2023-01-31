@@ -7,7 +7,7 @@ public class GeneratePassword {
 
     public static void main(String[] args) {
 
-        System.out.println("/******************Shuffle strings*****************/");
+        System.out.println("/******************Generate password*****************/");
         
         System.out.println("Fisrt generated password: "+generatePassword());
         System.out.println("Second generated password: "+generatePassword());
